@@ -1,0 +1,160 @@
+body {margin: 0;
+    color: #40514e;
+    text-align: center;
+    font-family: 'Lora', serif;
+    background-color: #eff8f8;
+    }
+
+.top-container {background-color: #DAEAF1;
+    position: relative;
+    padding-top: 70px;
+}
+ 
+h1 {margin: 50px auto 0px auto; 
+    font-family: 'Sacramento', cursive;
+    font-size: 560%;
+    color: #66BFBF; 
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 20%;
+    top: 5%;
+    width: 13%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 20%;
+    bottom: 40%;
+    width: 15%;
+}
+
+.mountain {
+    width: 25%;
+}
+
+.pro {color: yellowgreen;}
+
+
+.profile {
+    width: 50%;
+    margin: auto;
+}
+
+.anthony-photo {
+    width: 25%;
+    margin-top: 20px;
+}
+
+.about-me {
+    line-height: 2;
+    padding-bottom: 20px;
+}
+
+hr {
+    height: 0px;
+    width: 7%;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    border-color: #cccccc;
+    margin: 30px auto 30px auto;
+}
+
+.skills {
+    padding-top: 15px;
+}
+
+.coding-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.music-img {
+    float: left;
+    margin-right: 30px;
+}
+.real-estate-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 70px auto 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.contact-me {
+    margin:50px auto 50px auto;
+}
+
+.contact-message {
+    margin: 30px auto 30px auto;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 11;
+    -moz-border-radius: 11;
+    border-radius: 11px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+  .bottom-container {
+    background-color: #66BFBF;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .footer-link {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: solid;
+    padding-inline: 20px;
+}
+
+a:hover {
+    color: #eaf6f6;
+}
+
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.8rem;
+    padding-top: 40px;
+}
